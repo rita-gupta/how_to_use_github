@@ -6,9 +6,14 @@ First time setting up new project only:
 5. git push origin
 
 
+
+
 From second time to forever:
 1. git commit -am 'Something fixed or added blah blah'
 2. git push origin
+
+
+
 
 If you need to clone existing project from github:
 1. Get url from github repository
