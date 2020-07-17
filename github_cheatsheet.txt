@@ -2,15 +2,16 @@ First time setting up new project only:
 1. git init
 2. git add --all
 3. git remote add origin https:/..wwbasdfljasdhfljkhasdjlkfhalsjdhfasdf
-4. git commit -am 'Commit message something blah blah'
-5. git push origin
 
-
-
-
-From second time to forever:
-1. git commit -am 'Something fixed or added blah blah'
+To send your change:
+1. git commit -am 'Commit message something blah blah'
 2. git push origin
+
+
+
+To get others peoples change to local:
+1. git pull
+
 
 
 
