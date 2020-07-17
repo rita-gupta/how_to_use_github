@@ -9,3 +9,11 @@ First time setting up new project only:
 From second time to forever:
 1. git commit -am 'Something fixed or added blah blah'
 2. git push origin
+
+If you need to clone existing project from github:
+1. Get url from github repository
+2. Go to command line and do git clone like below:
+    git clone https://laksjdhfljashdflasldjfhjklasdfhjlashdlfjhajlsf mero_website
+3. Change something
+4. git commit -am 'Something was changed blah blah'
+5. git push origin
