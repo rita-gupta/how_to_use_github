@@ -22,4 +22,4 @@ If you need to clone existing project from github:
     git clone https://laksjdhfljashdflasldjfhjklasdfhjlashdlfjhajlsf mero_website
 3. Change something
 4. git commit -am 'Something was changed blah blah'
-5. git push origin
+5. git push origin  
